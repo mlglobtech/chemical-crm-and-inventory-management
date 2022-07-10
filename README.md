@@ -4,7 +4,7 @@
 
 * Application manages all your chemicals, suppliers, customers & their chemicals, inquiries, supplier purchase orders, customer sales orders, Inventory and all your business documents. There is powerful filtering functionality where you can search each chemicals supplier and customers or search suppliers and customers by chemicals.
 
-## Features of Advanced Chemical CRM and Inventory Management
+## Features of Chemical CRM and Inventory Management
 
 ![Chemical CRM and Inventory Management](images/chemical-crm.png)
 
